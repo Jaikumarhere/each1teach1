@@ -1,3 +1,3 @@
-console.log("Welcome Nodejs");
 
-console.log("Hello www");
+
+console.log("Hello world ");
